@@ -6,7 +6,7 @@ set :repo_url, "https://github.com/sagaekeiga/automation.git"
 
 
 
-set :deploy_to, '/home/anime/bot/'
+set :deploy_to, '/home/anime/automation/'
 
 set :keep_releases, 5
 set :ssh_options, :port => "61203"
